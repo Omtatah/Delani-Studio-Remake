@@ -1,0 +1,16 @@
+.division1 {
+    width: 100%;
+    height: 600px; 
+    background-image: url('../images/backgrounds/h_img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.container {
+    margin: 0%;
+}
+
+p {
+    color: red;
+}
