@@ -32,5 +32,23 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     /* text-align: center;    */
-    height: 500px;
+    height: 450px;
+}
+input{
+    background: transparent;
+    width: 100%;
+    padding-left: 2%; 
+}
+#message{
+    height: 200px;
+    
+}
+label{
+    text-align: center;
+    color: red;
+
+}
+.placeholder{
+    top:0px;
+    color: black;
 }
