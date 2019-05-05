@@ -23,3 +23,8 @@ p {
     background-size: cover;
     height: 300px;
 }
+.column{
+    float: left;
+  width: 25%;
+  padding: 5px;
+}
