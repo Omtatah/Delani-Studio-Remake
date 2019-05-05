@@ -15,6 +15,10 @@ p {
     color: red;
 }
 .division3{
+    padding-top: 50px;
+  /* padding-right: 100px; */
+  padding-bottom: 50px;
+  /* padding-left: 200px; */
     background-image: url("../images/backgrounds/s_image.jpg");
     background-size: cover;
     height: 300px;
