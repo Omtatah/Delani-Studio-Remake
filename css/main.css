@@ -14,3 +14,8 @@
 p {
     color: red;
 }
+.division3{
+    background-image: url("../images/backgrounds/s_image.jpg");
+    background-size: cover;
+    height: 300px;
+}
