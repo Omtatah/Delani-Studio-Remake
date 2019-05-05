@@ -1,54 +1,101 @@
 .division1 {
     width: 100%;
-    height: 600px; 
+    height: 600px;
     background-image: url('../images/backgrounds/h_img.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
 }
 
-.container {
+/* .container {
     margin: 0%;
-}
+} */
 
 p {
-    color: red;
+    text-align: center;
+    color: white;
 }
-.division3{
+
+.division3 {
     padding-top: 50px;
-  /* padding-right: 100px; */
-  padding-bottom: 50px;
-  /* padding-left: 200px; */
+    /* padding-right: 100px; */
+    padding-bottom: 50px;
+    /* padding-left: 200px; */
     background-image: url("../images/backgrounds/s_image.jpg");
     background-size: cover;
     height: 300px;
 }
-.col-md-3{
-   float: right;
+
+.col-md-3 {
+    float: right;
     padding: 5px;
 }
-.division6{
+
+.division6 {
     background-image: url('../images/backgrounds/c_image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     /* text-align: center;    */
     height: 450px;
 }
-input{
+
+input {
     background: transparent;
     width: 100%;
-    padding-left: 2%; 
+    padding-left: 2%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    resize: none;
 }
-#message{
-    height: 200px;
-    
-}
-label{
-    text-align: center;
-    color: red;
 
+#message {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    resize: none;
 }
-.placeholder{
-    top:0px;
+
+label {
+    text-align: center;
+    color: black;
+}
+
+input::placeholder {
+    top: 0px;
+    color: black;
+}
+
+#ldI {
+    font-size: 24px;
+}
+
+#lpM {
+    font-size: 24px;
+}
+
+#ldV {
+    font-size: 24px;
+}
+
+#show1 {
+    display: none;
+}
+
+#show2 {
+    display: none;
+}
+
+#show3 {
+    display: none;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.black{
     color: black;
 }
