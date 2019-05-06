@@ -88,9 +88,11 @@ input::placeholder {
 #show1 {
     display: none;
 }
-.division8{
+
+.division8 {
     text-align: center;
 }
+
 #show2 {
     display: none;
 }
@@ -98,13 +100,29 @@ input::placeholder {
 #show3 {
     display: none;
 }
-h1{
+
+h1 {
     text-align: center;
     color: white;
 }
-.black{
+h3{
+    text-align: center;
+}
+
+.black {
     color: black;
 }
-.h6_logo{
-    color:white;
+
+.h6_logo {
+    color: white;
+}
+#text1 {
+    position: absolute;
+    bottom: 85px;
+    left: 80px;
+  }
+.imge3{
+    filter: blur(8px);
+  -webkit-filter: blur(8px);
+
 }
