@@ -105,7 +105,8 @@ h1 {
     text-align: center;
     color: white;
 }
-h3{
+
+h3 {
     text-align: center;
 }
 
@@ -116,13 +117,65 @@ h3{
 .h6_logo {
     color: white;
 }
+
 #text1 {
+    display: none;
     position: absolute;
     bottom: 85px;
     left: 80px;
-  }
-.imge3{
+}
+
+#text2 {
+    display: none;
+    position: absolute;
+    bottom: 85px;
+    left: 80px;
+}
+
+#text3 {
+    display: none;
+    position: absolute;
+    bottom: 85px;
+    left: 80px;
+}
+
+#text4 {
+    display: none;
+    position: absolute;
+    bottom: 85px;
+    left: 80px;
+}
+
+#text5 {
+    display: none;
+    position: absolute;
+    bottom: 85px;
+    left: 80px;
+}
+
+#text6 {
+    display: none;
+    position: absolute;
+    bottom: 85px;
+    left: 80px;
+}
+
+#text7 {
+    display: none;
+    position: absolute;
+    bottom: 85px;
+    left: 80px;
+}
+
+#text8 {
+    display: none;
+    position: absolute;
+    bottom: 85px;
+    left: 20px;
+}
+
+/* .imge3{
     filter: blur(8px);
   -webkit-filter: blur(8px);
 
-}
+} */
